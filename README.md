@@ -1,9 +1,1 @@
-# Blockchain for secure file storage
-
---> To run this project
- 1. Clone this repository
- 2. Run command in current blockchchain storage directory -> npm install
- 3. Run command in client directory -> cd client --> npm install
- 4. Run command in blockchain storage directory ->npx hardhat node
- 5. Run command in blockchain storage directory in new terminal ->npx hardhat --network localhost run scripts/deploy.js
- 6. Run command in client directory -> cd client --> npm start
+Decentralized storage is a type of storage solution that is based on a blockchain-based decentralized network, rather than relying on a single centralized entity. Data is saved on various nodes in a decentralized network rather than on a single server under the control of a single authority.
